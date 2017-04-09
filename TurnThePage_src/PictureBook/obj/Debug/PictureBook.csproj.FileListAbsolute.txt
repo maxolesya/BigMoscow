@@ -1,0 +1,11 @@
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\bin\Debug\Resources\SingleBinder.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\bin\Debug\Resources\SingleBinderLeft.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\bin\Debug\Resources\SingleBinderRight.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\bin\Debug\PictureBook.dll
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\bin\Debug\PictureBook.pdb
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.csprojResolveAssemblyReference.cache
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.Properties.Resources.resources
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.TurnThePageControl.resources
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.csproj.GenerateResource.Cache
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.dll
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\PictureBook\obj\Debug\PictureBook.pdb

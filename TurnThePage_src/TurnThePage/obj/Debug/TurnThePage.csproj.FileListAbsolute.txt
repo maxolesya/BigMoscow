@@ -1,0 +1,13 @@
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\Resources\SingleBinder.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\Resources\SingleBinderLeft.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\Resources\SingleBinderRight.bmp
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\TurnThePage.exe
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\TurnThePage.pdb
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\PictureBook.dll
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\bin\Debug\PictureBook.pdb
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.csprojResolveAssemblyReference.cache
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.Form1.resources
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.Properties.Resources.resources
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.csproj.GenerateResource.Cache
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.exe
+C:\Олеся\Visual Studio\BigMoscow\TurnThePage_src\TurnThePage\obj\Debug\TurnThePage.pdb

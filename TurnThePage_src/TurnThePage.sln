@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnThePage", "TurnThePage\TurnThePage.csproj", "{C3C5BC20-5710-402D-A66A-6410347F055F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBook", "PictureBook\PictureBook.csproj", "{077901A7-1F1B-49AD-B2ED-D97525B09D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turn_try", "turn_try\turn_try.csproj", "{0C29A9B0-F371-41E9-B891-251567453CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C5BC20-5710-402D-A66A-6410347F055F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C5BC20-5710-402D-A66A-6410347F055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C5BC20-5710-402D-A66A-6410347F055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C5BC20-5710-402D-A66A-6410347F055F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077901A7-1F1B-49AD-B2ED-D97525B09D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077901A7-1F1B-49AD-B2ED-D97525B09D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077901A7-1F1B-49AD-B2ED-D97525B09D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077901A7-1F1B-49AD-B2ED-D97525B09D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C29A9B0-F371-41E9-B891-251567453CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C29A9B0-F371-41E9-B891-251567453CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C29A9B0-F371-41E9-B891-251567453CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C29A9B0-F371-41E9-B891-251567453CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
